@@ -33,6 +33,7 @@
     "react-router-dom": "^4.2.2",
     "react-test-renderer": "^16.0.0",
     "sinon": "^1.17.7",
+    "styled-components": "^5.3.3",
     "superagent": "^3.3.2"
   },
   "scripts": {
